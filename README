@@ -1,1 +1,7 @@
 Perl Module for accessing the danish travelcard selfcare
+
+./rejsekort.pl -u username -p password
+
+or put your username/password in $username and $password variables in rejsekort.pl and run:
+
+./rejsekort.pl
